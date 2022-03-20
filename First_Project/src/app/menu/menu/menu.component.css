@@ -1,0 +1,7 @@
+.container-fluid {
+  background-color: antiquewhite;
+}
+.navbar-nav {
+  display: flex;
+  justify-content: space-evenly;
+}
